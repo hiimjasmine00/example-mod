@@ -1,2 +1,3 @@
-# 1.0.0
-- Edit this file to change your mod's changelog.
+# Example Mod Changelog
+## v1.0.0 (0000-00-00)
+- Initial release
