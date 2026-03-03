@@ -1,10 +1,10 @@
 {
     "geode": "$GEODE_VERSION",
     "gd": {
-        "win": "2.2074",
-        "android": "2.2074",
-        "mac": "2.2074",
-        "ios": "2.2074"
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
     },
     "id": "$MOD_ID",
     "name": "$MOD_NAME",
@@ -16,5 +16,5 @@
         "source": "https://github.com/hiimjasmine00/example-mod",
         "homepage": "https://www.hiimjasmine00.com"
     },
-	"tags": []
+    "tags": []
 }
